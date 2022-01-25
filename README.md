@@ -2,7 +2,7 @@
 ### Contents: ###
 ---
 
-▶ [Chapter 1](#What-Is-JavaScript?-)
+▶ [Chapter 1](#What-Is-JavaScript-)
 
 ▶ [Chapter 2](#Surveying-JS)
 
