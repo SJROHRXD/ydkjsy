@@ -2,7 +2,7 @@
 ### Contents: ###
 ---
 
-▶ (Chapter 1:)[#What-Is-JavaScript?-]
+▶ (Chapter 1:)[#What-Is-JavaScript-]
 
 ▶ (Chapter 2:)[#js2]
 
@@ -13,7 +13,7 @@
 ---
 ---
 
-## What Is JavaScript? 🧐
+## What Is JavaScript 🧐
 ---
 
 
