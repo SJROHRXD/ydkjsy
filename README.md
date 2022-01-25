@@ -2,18 +2,18 @@
 ### Contents: ###
 ---
 
-▶ (Chapter 1:)[#What-Is-JavaScript-]
+▶ [Chapter 1](#What-Is-JavaScript-)
 
-▶ (Chapter 2:)[#js2]
+▶ [Chapter 2](#Surveying-JS-)
 
-▶ (Chapter 3:)[#js3]
+▶ [Chapter 3](#Digging-to-the-Roots-of-JS-)
 
-▶ (Chapter 4:)[#js4]
+▶ [Chapter 4](#The-Bigger-Picture-)
 
 ---
 ---
 
-## What Is JavaScript 🧐
+## What *Is* JavaScript?
 ---
 
 
