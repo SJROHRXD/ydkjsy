@@ -1,6 +1,6 @@
 # You Don't Know JavaScript *Yet* #
+
 ### Contents: ###
----
 
 ▶ [Chapter 1](#What-Is-JavaScript)
 
@@ -12,14 +12,8 @@
 
 ---
 
-
-TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼
-
-
-
----
 ## What *Is* JavaScript? <a name="What-Is-JavaScript"></a>
----
+
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar elementum integer enim neque volutpat ac. Pellentesque id nibh tortor id. Nisi scelerisque eu ultrices vitae auctor. At urna condimentum mattis pellentesque id nibh. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Consequat nisl vel pretium lectus quam id. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices. Tincidunt id aliquet risus feugiat in. Felis imperdiet proin fermentum leo vel orci. At auctor urna nunc id.
 
         Molestie nunc non blandit massa enim nec dui nunc mattis. Mauris augue neque gravida in fermentum et sollicitudin ac. Fermentum iaculis eu non diam phasellus. Purus viverra accumsan in nisl nisi. Morbi blandit cursus risus at ultrices mi tempus imperdiet. Velit ut tortor pretium viverra suspendisse potenti nullam ac. Quis viverra nibh cras pulvinar mattis nunc. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Risus quis varius quam quisque id diam vel. Ut lectus arcu bibendum at.
@@ -40,10 +34,10 @@ TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST 
 
 
 ## Surveying JS
----
+
 ## Digging to the Roots of JS
----
+
 ## The Bigger Picture
 
----
+
 ---
