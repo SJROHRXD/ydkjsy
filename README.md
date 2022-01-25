@@ -2,7 +2,7 @@
 ### Contents: ###
 ---
 
-▶ [Chapter 1](#What-Is-JavaScript-)
+▶ [Chapter 1](#What-Is-JavaScript)
 
 ▶ [Chapter 2](#Surveying-JS)
 
@@ -18,7 +18,7 @@ TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST FILLER 🌷🌿🌼 TEST 
 
 
 ---
-## What *Is* JavaScript?
+## What *Is* JavaScript? <a name="What-Is-JavaScript"></a>
 ---
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar elementum integer enim neque volutpat ac. Pellentesque id nibh tortor id. Nisi scelerisque eu ultrices vitae auctor. At urna condimentum mattis pellentesque id nibh. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Consequat nisl vel pretium lectus quam id. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices. Tincidunt id aliquet risus feugiat in. Felis imperdiet proin fermentum leo vel orci. At auctor urna nunc id.
 
