@@ -1,5 +1,7 @@
 # You Don't Know JavaScript *Yet* #
 
+Personal notes from *YDKJSY: Get Started* 2nd Edition \(Kyle Simpson, 2020\)
+
 ### Contents: ###
 
 ▶ [Chapter 1](#What-Is-JavaScript)
