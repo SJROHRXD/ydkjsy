@@ -2,7 +2,7 @@
 ### Contents: ###
 ---
 
-▶ (Chapter 1:)[#js1]
+▶ (Chapter 1:)[#What-Is-JavaScript?-]
 
 ▶ (Chapter 2:)[#js2]
 
@@ -13,16 +13,16 @@
 ---
 ---
 
-## What Is JavaScript? <a name="js1">
+## What Is JavaScript? 🧐
 ---
 
 
 
-## Surveying JS <a name="js2">
+## Surveying JS
 ---
-## Digging to the Roots of JS <a name="js3">
+## Digging to the Roots of JS
 ---
-## The Bigger Picture <a name="js4">
+## The Bigger Picture
 
 ---
 ---
