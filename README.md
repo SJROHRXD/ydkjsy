@@ -41,16 +41,19 @@ Personal notes from *YDKJSY: Get Started*, 2nd Edition \(Kyle Simpson, 2020\)
 ## Surveying JS
 
         🌷🌿🌼 Notes here
+        ◻ 
 
 
 ## Digging to the Roots of JS
 
         🌷🌿🌼 Notes here
+        ◻ 
 
 
 ## The Bigger Picture
 
         🌷🌿🌼 Notes here
+        ◻ 
 
 ---
 Last Update:  Monday, January 24, 2022 23:30
