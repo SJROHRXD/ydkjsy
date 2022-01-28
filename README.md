@@ -21,6 +21,15 @@ Personal notes from *YDKJSY: Get Started*, 2nd Edition \(Kyle Simpson, 2020\)
         ◻ scopes and closures; prototypes and objects, types and coercion
         ◻ the name JavaScript is an "artifact of marketing shenanigans"
         ◻ initially named Mocha, or at least called it that informally
+        ◻ assumed syntax expectations from C
+        ◻ official name specified by TC39 and formalized by ECMA standards is ECMAScript
+        ◻ ECMAScript 2019 / ES2019
+        ◻ syntax and behavior defined in ES specification
+        ◻ all TC39 proposals managed in the open (and are even sort of fun to read)
+                https://github.com/tc39/proposal-array-from-async
+        ◻ how JS is implemented for web browsers is the only reality that matters
+        ◻ browser-based JS engines
+        ◻ 
 
 ## Surveying JS
 
