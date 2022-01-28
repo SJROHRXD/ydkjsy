@@ -16,7 +16,8 @@ Personal notes from *YDKJSY: Get Started*, 2nd Edition \(Kyle Simpson, 2020\)
 
 ## What *Is* JavaScript? <a name="What-Is-JavaScript"></a>
 
-        🌷🌿🌼 Notes here
+        ◻ background housekeeping details
+        ◻ how is JS organized and maintained
 
 
 ## Surveying JS
