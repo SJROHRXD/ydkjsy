@@ -29,6 +29,13 @@ Personal notes from *YDKJSY: Get Started*, 2nd Edition \(Kyle Simpson, 2020\)
                 https://github.com/tc39/proposal-array-from-async
         ◻ how JS is implemented for web browsers is the only reality that matters
         ◻ browser-based JS engines
+        ◻ contains() vs includes() conflict
+        ◻ smooshgate
+        ◻ "Additional ECMAScript Features for Web Browsers" *reference appendix
+        ◻ the global escape / unescape()
+        ◻ web API's that look like JS
+        ◻ not specified in JS but because of universal utility, defined by JS environments
+        ◻ an alert() call is JS, but alert itself is "a guest"
         ◻ 
 
 ## Surveying JS
