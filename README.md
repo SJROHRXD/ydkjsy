@@ -26,7 +26,7 @@ Personal notes from *YDKJSY: Get Started*, 2nd Edition \(Kyle Simpson, 2020\)
         ◻ ECMAScript 2019 / ES2019
         ◻ syntax and behavior defined in ES specification
         ◻ all TC39 proposals managed in the open (and are even sort of fun to read)
-                https://github.com/tc39/proposal-array-from-async
+                [Zalgo?](https://github.com/tc39/proposal-array-from-async)
         ◻ how JS is implemented for web browsers is the only reality that matters
         ◻ browser-based JS engines
         ◻ contains() vs includes() conflict
