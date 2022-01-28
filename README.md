@@ -19,7 +19,7 @@ Personal notes from *YDKJSY: Get Started*, 2nd Edition \(Kyle Simpson, 2020\)
         ◻ background housekeeping details
         ◻ how is JS organized and maintained
         ◻ scopes and closures; prototypes and objects, types and coercion
-        ◻ the name JS is an "artifact of marketing shenanigans"
+        ◻ the name JavaScript is an "artifact of marketing shenanigans"
         ◻ initially named Mocha, or at least called it that informally
 
 ## Surveying JS
